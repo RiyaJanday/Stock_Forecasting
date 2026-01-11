@@ -1,6 +1,4 @@
-Project 6: Stock Price Prediction using LSTM
-
-Internship: AI/ML Internship – Tamizhan Skills RISE
+Stock Price Prediction using LSTM
 
 Objective:
 
@@ -68,11 +66,3 @@ Output Samples:
 
  price_prediction_plot.png: Plot comparing actual and predicted prices for the last year.
  future_forecast_plot.png: Forecasted stock prices for the next 30 days.
-
-Submitted By:
-
-Name: Riya Janday
-College: Parul University
-Course: B.Tech CSE with specialization in AI
-Project Number: 6
-Project Title: Stock Price Prediction using LSTM
